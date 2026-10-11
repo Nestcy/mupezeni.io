@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-groq
+pydantic-settings
+python-dotenv
+langchain-mcp-adapters
+mcp>=1.28,<2
